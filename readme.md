@@ -1,1 +1,1 @@
-## DSA practise and solving questions
+## DSA practice and solving questions
