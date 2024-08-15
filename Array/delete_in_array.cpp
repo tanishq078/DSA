@@ -6,9 +6,8 @@ using namespace std;
 int fun(int arr[], int size, int element)
 {
     int index;
-    for(int i = 0;i < size; i++){
-        if(arr[i]== element){
-            index = i;
+    for(index = 0;index < size; index++){
+        if(arr[index]== element){
             break;
         }
     }
